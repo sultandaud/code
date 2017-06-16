@@ -1,0 +1,26 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2017-02-27 18:23:49.425250",
+    "dataset_id": "20170226-161314-e424",
+    "deploy file": "deploy.prototxt",
+    "digits version": "5.1-dev",
+    "framework": "caffe",
+    "id": "20170227-182349-ebe7",
+    "image dimensions": [
+        224,
+        224,
+        3
+    ],
+    "image resize mode": "crop",
+    "job id": "20170227-182349-ebe7",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "oquabNet_wadiMakkah",
+    "snapshot file": "snapshot_iter_23990.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Aborted",
+    "train_val file": "train_val.prototxt",
+    "username": "khurram"
+}
